@@ -1,1 +1,1 @@
-# Perodic-table-in-c-
+#Perodic table in object oriented programming
