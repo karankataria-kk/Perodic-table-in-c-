@@ -483,7 +483,7 @@ int main()
 	shell Sh;
 	p.print_it();
 	S.select_it();
-	cout<<"\n\n\nLOADING";
+	cout<<"\n\n\nLOADING\n\n\n";
         for(int i=0;i<=5;i++)
         {
             Sleep( 500 );
